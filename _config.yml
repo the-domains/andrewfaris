@@ -1,0 +1,14 @@
+layout_spectrum: 0.9427933
+color:
+  saturation: 0.966992
+  lightness: 0.2259493
+  brandStrength: 1
+  brandColors:
+    - '#030104'
+    - '#FBFAFB'
+    - '#01399A'
+    - '#FF4241'
+    - '#FCD702'
+  rhythmicContrast: 0.7241451
+typography_spectrum: 0.4581096
+name: andrewfaris
