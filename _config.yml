@@ -1,14 +1,26 @@
-layout_spectrum: 0.9427933
 color:
   saturation: 0.966992
-  lightness: 0.2259493
   brandStrength: 1
+  rhythmicContrast: 0.7241451
   brandColors:
     - '#030104'
     - '#FBFAFB'
     - '#01399A'
     - '#FF4241'
     - '#FCD702'
-  rhythmicContrast: 0.7241451
+  lightness: 0.2259493
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.9427933
 typography_spectrum: 0.4581096
 name: andrewfaris
