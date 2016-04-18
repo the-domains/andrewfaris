@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[andrewfaris]]></title>
+        <description><![CDATA[andrewfaris]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Apr 2016 09:21:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bits + Crisp (detail)]]></title>
+            <description><![CDATA[<article><h1>Bits + Crisp (detail)</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d960ef08-d376-4f47-87d3-4368e4750468.png"></article>]]></description>
+            <link>undefinedbits-crisp-detail/index.html</link>
+            <guid isPermaLink="false">e95cf021-85c0-4f8b-be0b-fb476c9d53c5</guid>
+            <pubDate>Mon, 18 Apr 2016 09:21:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
